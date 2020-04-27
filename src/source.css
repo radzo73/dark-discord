@@ -14,13 +14,13 @@
     --bd-blue-hover: #0D92E6 !important;
     --bd-blue-active: #0D92E6 !important;
 }
-.icon-1_QxNX.da-icon{
-background-color:#abcdef;
-color:#ff9900;
-fill:#0099ff}
 
+.icon-1_QxNX.da-icon{
+fill:#0D92E6}
+
+.button-1I8KM5, .wrapper-35dUTv
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #242424 !important;
+    background-color: #0D92E6 !important;
     border-color: transparent !important;
 }
 
@@ -1877,5 +1877,5 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 }
 
 .theme-dark .footer-2aTx0s {
-    background-color: black;
+    background-color: #171717;
 }
