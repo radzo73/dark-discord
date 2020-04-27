@@ -14,7 +14,9 @@
     --bd-blue-hover: #0D92E6 !important;
     --bd-blue-active: #0D92E6 !important;
 }
-
+.icon-1_QxNX.da-icon{
+background-color:#abcdef;
+color:#ff9900}
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background-color: #242424 !important;
     border-color: transparent !important;
