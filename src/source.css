@@ -6,10 +6,10 @@
     --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
     --background-floating: black !important;
-    --background-modifier-hover: #0D92E6 !important;	
-    --background-modifier-active: #abcdef !important;	
-    --background-modifier-selected: #777777 !important;	
-    --background-modifier-accent: #aaaaaa !important;
+    --background-modifier-hover: rgba(50,50,50,0.16) !important;	
+    --background-modifier-active: rgba(50,50,50,0.24) !important;	
+    --background-modifier-selected: rgba(50,50,50,0.32) !important;	
+    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
     --bd-blue: #0D92E6 !important;
     --bd-blue-hover: #0D92E6 !important;
     --bd-blue-active: #0D92E6 !important;
