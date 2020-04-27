@@ -8,7 +8,7 @@
     --background-floating: black !important;
     --background-modifier-hover: rgba(50,50,50,0.16) !important;	
     --background-modifier-active: rgba(50,50,50,0.24) !important;	
-    --background-modifier-selected: rgba(50,50,50,0.32) !important;	
+    --background-modifier-selected: #0D92E6 !important;	
     --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
     --bd-blue: #0D92E6 !important;
     --bd-blue-hover: #0D92E6 !important;
