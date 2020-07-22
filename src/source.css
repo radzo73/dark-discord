@@ -22,11 +22,11 @@
 
 .da-lowerBadge{background-color:var(--red) !important;}
 
-.da-iconBadge{background-color:var(--red) !important;}
+.da-iconBadge, .iconBadge-qZ4Ksk{background-color:#f90 !important;}
 
-.scroller-2FKFPG::-webkit-scrollbar-track-piece{background-color:var(--darkblue) !important; border-color:var(--background-primary) !important}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track-piece{background-color:var(--darkblue) !important; border-color:var(--background-primary) !important}
 
-.scroller-2FKFPG::-webkit-scrollbar-thumb{background-color:var(--bd-blue) !important;}
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-thumb{background-color:var(--bd-blue) !important;}
 
 .newMessagesBar-mujexs{background-color:var(--bd-blue) !important;}
 
