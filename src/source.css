@@ -25,13 +25,13 @@
 
 .scroller-2FKFPG::-webkit-scrollbar-track-piece{background-color: var(--darkblue) !important; border-color: var(--background-primary) !important}
 
-.scroller-2FKFPG::-webkit-scrollbar-thumb{background-color: var(--blurple) !important;}
+.scroller-2FKFPG::-webkit-scrollbar-thumb{background-color: var(--bd-blue) !important;}
 
-.newMessagesBar-mujexs{background-color:var(--blurple) !important;}
+.newMessagesBar-mujexs{background-color:var(--bd-blue) !important;}
 
-.barButtonMain-1giYuj{background-color:var(--blurple) !important;}
+.barButtonMain-1giYuj{background-color:var(--bd-blue) !important;}
 
-.barButtonAlt-3gIkIj{background-color:var(--blurple) !important;}
+.barButtonAlt-3gIkIj{background-color:var(--bd-blue) !important;}
 
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9{background-color:#147de0;}
 
@@ -46,7 +46,7 @@
 .winButtonMinMax-PBQ2gm:hover{background-color: var(--blurple) !important;}
 .colorDanger-2qLCe1.focused-3afm-j{background-color: var(--red) !important; color:#fff !important;}
 .colorDanger-2qLCe1{color: var(--red) !important;}
-.headerPlaying-j0WQBV{background-color: var(--blurple);}
+.headerPlaying-j0WQBV{background-color: var(--bd-blue);}
 .winButtonClose-1HsbF-:hover{background-color:#E0143C !important;}
 .mention-1f5kbO, .iconBadge-qZ4Ksk, .numberBadge-2s8kKX{background-color:#E0143C !important;}
 
