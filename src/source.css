@@ -14,27 +14,26 @@
     --bd-blue-hover: #0D92E6 !important;
     --bd-blue-active: #0D92E6 !important;
     --blurple: #0D92E6 !important;
+    --red: #E0143C !important;
+    --green: #57B136 !important;
+    --yellorange: #ff9900 !important;
 }
-
-.barButtonMain-1giYuj{background-color:#0D92E6 !important;;}
-.barButtonAlt-3gIkIj{background-color:#0D92E6 !important;}
+.newMessagesBar-mujexs{background-color:var(--blurple) !important;}
+.barButtonMain-1giYuj{background-color:var(--blurple) !important;}
+.barButtonAlt-3gIkIj{background-color:var(--blurple) !important;}
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9{background-color:#147de0;}
-.body-3iLsc4{background-color:#111 !important;}
-.channelTextArea-rNsIhG .buttons-3JBrkn .button-38aScr[tabindex="0"]:first-child,
-.channelTextArea-rNsIhG .buttons-3JBrkn .buttonWrapper-1ZmCpA + .buttonWrapper-1ZmCpA[tabindex="0"] {
-    display:none;
-}
+.body-3iLsc4{background-color:var(--background-dark-primary) !important;}
 
 .channelTextArea-rNsIhG .buttonContainer-28fw2U .button-38aScr {
     display:block !important;
 }
-.isUnread-3Ef-o9{border-color:#E0143C;}
-.da-unreadPill{background-color:#E0143C !important;}
-.unreadPillCapStroke-7rkHbg{fill:#E0143C !important; color:#E0143C !important;}
-.winButtonMinMax-PBQ2gm:hover{background-color:#0D92E6 !important;}
-.colorDanger-2qLCe1.focused-3afm-j{background-color:#E0143C !important; color:#fff !important;}
-.colorDanger-2qLCe1{color:#E0143C !important;}
-.headerPlaying-j0WQBV{background-color:#0D92E6;}
+.isUnread-3Ef-o9{border-color: var(--red);}
+.da-unreadPill{background-color: var(--red) !important;}
+.unreadPillCapStroke-7rkHbg{fill: var(--red) !important; color: var(--red) !important;}
+.winButtonMinMax-PBQ2gm:hover{background-color: var(--blurple) !important;}
+.colorDanger-2qLCe1.focused-3afm-j{background-color: var(--red) !important; color:#fff !important;}
+.colorDanger-2qLCe1{color: var(--red) !important;}
+.headerPlaying-j0WQBV{background-color: var(--blurple);}
 .winButtonClose-1HsbF-:hover{background-color:#E0143C !important;}
 .mention-1f5kbO, .iconBadge-qZ4Ksk, .numberBadge-2s8kKX{background-color:#E0143C !important;}
 
@@ -45,54 +44,6 @@ fill:#ff9900}
 
 .icon-1_QxNX.da-icon:active, .icon-1_QxNX.da-icon:hover, .icon-1_QxNX.da-icon:selected{
 fill:#0D92E6 !important}
-
-.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #0D92E6 !important;
-    border-color: transparent !important;
-}
-
-.scroller-2FKFPG::-webkit-scrollbar-corner {
-    background-color: transparent !important;
-}
-
-.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-track {
-    background-color: transparent !important;
-    border-color: transparent !important;
-}
-
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
-    background-color: #111111; !important;
-    border: 4px solid #141414 !important;
-    border-radius: 8px !important;
-}
-
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: #0D92E6 !important;
-    border-color: transparent; !important;
-}
-
-.scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-    background-color: transparent; !important;
-    border-color: transparent !important;
-}
-
-.scrollableContainer-2NUZem::-webkit-scrollbar-corner {
-    background-color: transparent !important;
-}
-
-.scrollableContainer-2NUZem::-webkit-scrollbar-track {
-    background-color: transparent !important;
-    border-color: transparent !important;
-}
-
-.scrollableContainer-2NUZem::-webkit-scrollbar-track-piece {
-    background-color: transparent;
-}
-
-.scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-    background-color: #111111; !important;
-    border-color: transparent; !important;
-}
 	
 .videoBackground-3AY_fu, .videoBackgroundTransition-3wpOSl {
     background-color: #000000;
