@@ -19,6 +19,9 @@
     --green: #57B136 !important;
     --yellorange: #ff9900 !important;
 }
+
+.da-lowerBadge{background-color:var(--red) !important;}
+
 .da-iconBadge{background-color:var(--red) !important;}
 
 .scroller-2FKFPG::-webkit-scrollbar-track-piece{background-color:var(--darkblue) !important; border-color:var(--background-primary) !important}
