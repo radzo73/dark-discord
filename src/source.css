@@ -29,6 +29,9 @@
     --toast-box-shadow: rgba(0, 0, 0, .2) !important;
     --toast-border: var(--background-tertiary) !important;
     --offline-color: rgb(60, 60, 60) !important;
+    --bd-blue: #0D92E6 !important;
+    --bd-blue-hover: #0D92E6 !important;
+    --bd-blue-active: #0D92E6 !important;
     --blurple: #0D92E6 !important;
     --darkblue: #082E55 !important;
     --red: #E0143C !important;
